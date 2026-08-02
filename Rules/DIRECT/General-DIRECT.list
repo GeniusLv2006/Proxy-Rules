@@ -1,0 +1,23 @@
+# ==================================================
+# Country-code domains
+# ==================================================
+
+# Mainland China ccTLD
+DOMAIN-SUFFIX,cn
+
+
+# ==================================================
+# Visa and immigration
+# ==================================================
+
+# VFS Global
+DOMAIN-SUFFIX,vfsglobal.com
+
+
+# ==================================================
+# Airlines
+# ==================================================
+
+# Emirates booking
+DOMAIN,fly2.emirates.com
+DOMAIN,fly4.emirates.com
