@@ -1,3 +1,4 @@
+#Emby
 DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
 DOMAIN-SUFFIX,cfstream-edge-v1.fastboostcdn.com
 DOMAIN-SUFFIX,emby.bangumi.ca
@@ -18,3 +19,11 @@ DOMAIN-SUFFIX,server3.cn2gias.uk
 DOMAIN-SUFFIX,s3.array2026.com
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,vipdc.covh.eu.org
+
+#Reverse Proxy
+DOMAIN-SUFFIX,embys.bbroot.com
+DOMAIN-SUFFIX,lilyemby.bbroot.com
+DOMAIN-SUFFIX,youxuan.bbroot.com
+DOMAIN-SUFFIX,yx.emby-cm.ccwu.cc
+DOMAIN-SUFFIX,yx.emby-ct.ccwu.cc
+DOMAIN-SUFFIX,yx.emby-cu.ccwu.cc
