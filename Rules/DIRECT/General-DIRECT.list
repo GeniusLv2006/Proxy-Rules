@@ -1,23 +1,17 @@
-# ==================================================
-# Country-code domains
-# ==================================================
-
 # Mainland China ccTLD
 DOMAIN-SUFFIX,cn
-
-
-# ==================================================
-# Visa and immigration
-# ==================================================
 
 # VFS Global
 DOMAIN-SUFFIX,vfsglobal.com
 
-
-# ==================================================
-# Airlines
-# ==================================================
-
 # Emirates booking
 DOMAIN,fly2.emirates.com
 DOMAIN,fly4.emirates.com
+
+# Reverse Proxy
+DOMAIN-SUFFIX,embys.bbroot.com
+DOMAIN-SUFFIX,lilyemby.bbroot.com
+DOMAIN-SUFFIX,youxuan.bbroot.com
+DOMAIN-SUFFIX,yx.emby-cm.ccwu.cc
+DOMAIN-SUFFIX,yx.emby-ct.ccwu.cc
+DOMAIN-SUFFIX,yx.emby-cu.ccwu.cc
