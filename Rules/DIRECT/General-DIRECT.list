@@ -5,8 +5,7 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,vfsglobal.com
 
 # Emirates booking
-DOMAIN,fly2.emirates.com
-DOMAIN,fly4.emirates.com
+DOMAIN-SUFFIX,emirates.com
 
 # Reverse Proxy
 DOMAIN-SUFFIX,embys.bbroot.com
