@@ -4,8 +4,9 @@ DOMAIN-SUFFIX,cn
 # VFS Global
 DOMAIN-SUFFIX,vfsglobal.com
 
-# Emirates booking
+# Emirates Airlines
 DOMAIN-SUFFIX,emirates.com
+DOMAIN-SUFFIX,emirates.store
 
 # Reverse Proxy
 DOMAIN-SUFFIX,embys.bbroot.com
